@@ -1,6 +1,6 @@
 # 🏆 RankLab
 
-Repositório desenvolvido para a disciplina de **Modelagem de Banco de Dados**, dedicado à concepção, estruturação e validação do modelo de dados do projeto **RankLab**.
+Repositório desenvolvido para a disciplina de **Algoritimo e pensamento computacional**, dedicado à concepção, estruturação e validação do modelo de dados do projeto **RankLab**.
 
 ---
 
@@ -18,7 +18,7 @@ Repositório desenvolvido para a disciplina de **Modelagem de Banco de Dados**, 
 
 * **Disciplina:** Modelagem de Banco de Dados
 * **Projeto:** RankLab
-* **Professor(a):** `Ellen Martins Lopes da Silva`
+* **Professor(a):** `Vinicius Alves Rodrigues`
 * **Período:** ` 2º Semestre`
 
 ---
