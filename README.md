@@ -25,7 +25,7 @@ Repositório desenvolvido para a disciplina de **Modelagem de Banco de Dados**, 
 
 ## 📌 Sobre o Projeto
 
-O **RankLab** tem como objetivo `[descreva aqui em 1 ou 2 frases o propósito do sistema — ex.: gerenciar rankings, pontuações, usuários e competições/avaliações de forma organizada e íntegra]`.
+O **RankLab** tem como objetivo `Fazer a Implementação do Bubble Sort, Selection Sort e Insertion Sort`.
 
 Este repositório reúne os artefatos produzidos ao longo das etapas de modelagem, tais como:
 
