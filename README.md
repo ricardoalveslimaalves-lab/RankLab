@@ -18,8 +18,8 @@ Repositório desenvolvido para a disciplina de **Modelagem de Banco de Dados**, 
 
 * **Disciplina:** Modelagem de Banco de Dados
 * **Projeto:** RankLab
-* **Professor(a):** `[Nome do(a) Professor(a)]`
-* **Período / Turma:** `[Ex.: 2º Semestre / Turma A]`
+* **Professor(a):** `Ellen Martins Lopes da Silva`
+* **Período:** ` 2º Semestre`
 
 ---
 
