@@ -8,7 +8,7 @@ Repositório desenvolvido para a disciplina de **Modelagem de Banco de Dados**, 
 
 | Nome Completo | RGM |
 | :--- | :--- |
-| `Ricardo Alves Lima` | `47` |
+| `Ricardo Alves Lima` | `47547472` |
 | `Gustavo da Silva Andrade ` | `49097474` |
 | `Leonardo Caires` | `48123676` |
 
